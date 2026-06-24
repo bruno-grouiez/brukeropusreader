@@ -24,6 +24,8 @@ BLOCK_7 = {
     8: "IgSm",
     12: "PhSm",
     56: "PwSm",
+    132: "ScSm2",
+    136: "IgSm2",
 }
 
 BLOCK_11 = {
@@ -38,6 +40,8 @@ BLOCK_23 = {
     8: "IgSm Data Parameter",
     12: "PhSm Data Parameter",
     56: "PwSm Data Parameter",
+    132: "ScSm2 Data Parameter",
+    136: "IgSm2 Data Parameter",
 }
 
 BLOCK_27 = {
