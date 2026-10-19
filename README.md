@@ -42,3 +42,9 @@ This project is released under the terms of the LGPLv3 license, which is include
 
 --
 QED | https://qed.ai
+
+## Fork-specific extensions
+
+This fork includes additional EM27/SUN block support and selective block
+reading. See [FORK_NOTES.md](FORK_NOTES.md) for details, usage examples,
+performance measurements, and validation status.
