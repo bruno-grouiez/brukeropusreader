@@ -1,7 +1,14 @@
 *.pyc
 *.csv
 
-# dir
+# Directories
 .idea/
 conda-bld/
 *.egg-info/
+__pycache__/
+
+# Python virtual environments
+.venv/
+.venv*/
+venv/
+venv*/
